@@ -12,6 +12,15 @@
         "AFL-3.0"
     ],
     "autoload": {
+        "files": [
+            "Launch/registration.php",
+            "LaunchAdminUi/registration.php",
+            "LaunchCatalog/registration.php",
+            "LaunchCatalogSearch/registration.php",
+            "LaunchCheckout/registration.php",
+            "LaunchCustomer/registration.php",
+            "LaunchTheme/registration.php"
+        ],
         "psr-4": {
             "Adobe\\Launch\\": "",
             "Adobe\\LaunchAdminUi\\": "",
