@@ -17,7 +17,7 @@
         ],
         "psr-4": {
             "Adobe\\Launch\\": "",
-            "Adobe\LaunchAdminUi\\": "",
+            "Adobe\\LaunchAdminUi\\": "",
             "Adobe\\LaunchCatalog\\": "",
             "Adobe\\LaunchCatalogSearch\\": "",
             "Adobe\\LaunchCheckout\\": "",
