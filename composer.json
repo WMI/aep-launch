@@ -22,13 +22,13 @@
             "LaunchTheme/registration.php"
         ],
         "psr-4": {
-            "Adobe\\Launch\\": "",
-            "Adobe\\LaunchAdminUi\\": "",
-            "Adobe\\LaunchCatalog\\": "",
-            "Adobe\\LaunchCatalogSearch\\": "",
-            "Adobe\\LaunchCheckout\\": "",
-            "Adobe\\LaunchCustomer\\": "",
-            "Adobe\\LaunchTheme\\": ""
+            "Adobe\\Launch\\": "Launch/",
+            "Adobe\\LaunchAdminUi\\": "LaunchAdminUi/",
+            "Adobe\\LaunchCatalog\\": "LaunchCatalog/",
+            "Adobe\\LaunchCatalogSearch\\": "LaunchCatalogSearch/",
+            "Adobe\\LaunchCheckout\\": "LaunchCheckout/",
+            "Adobe\\LaunchCustomer\\": "LaunchCustomer/",
+            "Adobe\\LaunchTheme\\": "LaunchTheme/"
         }
     }
 }
